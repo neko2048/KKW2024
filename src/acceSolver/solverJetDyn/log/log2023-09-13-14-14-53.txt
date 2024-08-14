@@ -1,0 +1,162 @@
+ Start Read fort.98
+ fort.98 Read Successfully
+-------------------- 000140 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000140.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9561E-07,  Iterations =    50
+End solving | Cost Time:     9.4 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000140.nc                                                                                                                                                                                                   
+-------------------- 000160 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000160.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9637E-07,  Iterations =    56
+End solving | Cost Time:    11.2 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000160.nc                                                                                                                                                                                                   
+-------------------- 000180 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000180.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9540E-07,  Iterations =    58
+End solving | Cost Time:    11.4 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000180.nc                                                                                                                                                                                                   
+-------------------- 000200 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000200.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9659E-07,  Iterations =    58
+End solving | Cost Time:    11.0 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000200.nc                                                                                                                                                                                                   
+-------------------- 000220 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000220.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9427E-07,  Iterations =    59
+End solving | Cost Time:    11.5 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000220.nc                                                                                                                                                                                                   
+-------------------- 000240 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000240.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9301E-07,  Iterations =    66
+End solving | Cost Time:    12.6 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000240.nc                                                                                                                                                                                                   
+-------------------- 000260 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000260.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9967E-07,  Iterations =    74
+End solving | Cost Time:    13.6 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000260.nc                                                                                                                                                                                                   
+-------------------- 000280 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000280.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9629E-07,  Iterations =    77
+End solving | Cost Time:    14.7 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000280.nc                                                                                                                                                                                                   
+-------------------- 000300 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000300.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9920E-07,  Iterations =    80
+End solving | Cost Time:    15.5 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000300.nc                                                                                                                                                                                                   
+-------------------- 000320 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000320.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9761E-07,  Iterations =    82
+End solving | Cost Time:    15.6 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000320.nc                                                                                                                                                                                                   
+-------------------- 000340 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000340.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9740E-07,  Iterations =    76
+End solving | Cost Time:    14.6 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000340.nc                                                                                                                                                                                                   
+-------------------- 000360 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000360.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9615E-07,  Iterations =    75
+End solving | Cost Time:    13.8 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000360.nc                                                                                                                                                                                                   
+-------------------- 000380 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000380.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9488E-07,  Iterations =    73
+End solving | Cost Time:    14.3 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000380.nc                                                                                                                                                                                                   
+-------------------- 000400 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/uniform-1/buoyancy-000400.nc                                                                                                                                                                                   
+ Start to solve
+Norm of error =  0.9878E-07,  Iterations =    80
+End solving | Cost Time:    15.5 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000400.nc                                                                                                                                                                                                   
+-------------------- 000140 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000140.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9874E-07,  Iterations =    77
+End solving | Cost Time:    14.8 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000140.nc                                                                                                                                                                                                
+-------------------- 000160 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000160.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9635E-07,  Iterations =    56
+End solving | Cost Time:    10.5 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000160.nc                                                                                                                                                                                                
+-------------------- 000180 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000180.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9338E-07,  Iterations =    58
+End solving | Cost Time:    11.7 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000180.nc                                                                                                                                                                                                
+-------------------- 000200 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000200.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9223E-07,  Iterations =    58
+End solving | Cost Time:    10.9 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000200.nc                                                                                                                                                                                                
+-------------------- 000220 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000220.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9657E-07,  Iterations =    58
+End solving | Cost Time:    11.3 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000220.nc                                                                                                                                                                                                
+-------------------- 000240 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000240.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9936E-07,  Iterations =    64
+End solving | Cost Time:    12.9 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000240.nc                                                                                                                                                                                                
+-------------------- 000260 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000260.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9383E-07,  Iterations =    74
+End solving | Cost Time:    13.4 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000260.nc                                                                                                                                                                                                
+-------------------- 000280 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000280.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9792E-07,  Iterations =    76
+End solving | Cost Time:    14.6 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000280.nc                                                                                                                                                                                                
+-------------------- 000300 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000300.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9596E-07,  Iterations =    80
+End solving | Cost Time:    15.5 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000300.nc                                                                                                                                                                                                
+-------------------- 000320 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000320.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9844E-07,  Iterations =    81
+End solving | Cost Time:    16.2 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000320.nc                                                                                                                                                                                                
+-------------------- 000340 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000340.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9983E-07,  Iterations =    75
+End solving | Cost Time:    14.7 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000340.nc                                                                                                                                                                                                
+-------------------- 000360 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000360.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9624E-07,  Iterations =    74
+End solving | Cost Time:    13.6 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000360.nc                                                                                                                                                                                                
+-------------------- 000380 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-0.5/buoyancy-000380.nc                                                                                                                                                                                
+--------------- FINISHED --------------
+2023-09-13 14:29:44

@@ -1,0 +1,6 @@
+ Start Read fort.98
+ fort.98 Read Successfully
+-------------------- 000320 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-3.0/buoyancy-000320.nc                                                                                                                                                                                
+--------------- FINISHED --------------
+2023-09-13 19:41:30

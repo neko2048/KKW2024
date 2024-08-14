@@ -1,0 +1,4 @@
+[mpiexec@mogamd] Sending Ctrl-C to processes as requested
+[mpiexec@mogamd] Press Ctrl-C again to force abort
+--------------- FINISHED --------------
+2023-09-13 20:39:36

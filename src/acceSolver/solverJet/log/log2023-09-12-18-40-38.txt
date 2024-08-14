@@ -1,0 +1,198 @@
+ Start Read fort.98
+ fort.98 Read Successfully
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/uniform-1/buoyancy-000120.nc                                                                                                                                                                                              
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+ open fail
+ Unknown Error                                                                  
+  
+--------------- FINISHED --------------
+2023-09-12 18:40:46

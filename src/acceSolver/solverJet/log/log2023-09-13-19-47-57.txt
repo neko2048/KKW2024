@@ -1,0 +1,34 @@
+ Start Read fort.98
+ fort.98 Read Successfully
+-------------------- 000320 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-3.0/buoyancy-000320.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9832E-07,  Iterations =    73
+End solving | Cost Time:    13.7 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.0/a-000320.nc                                                                                                                                                                                                
+-------------------- 000340 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-3.0/buoyancy-000340.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9431E-07,  Iterations =    74
+End solving | Cost Time:    13.9 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.0/a-000340.nc                                                                                                                                                                                                
+-------------------- 000360 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-3.0/buoyancy-000360.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9999E-07,  Iterations =    72
+End solving | Cost Time:    14.2 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.0/a-000360.nc                                                                                                                                                                                                
+-------------------- 000380 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-3.0/buoyancy-000380.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9527E-07,  Iterations =    71
+End solving | Cost Time:    13.7 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.0/a-000380.nc                                                                                                                                                                                                
+-------------------- 000400 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-3.0/buoyancy-000400.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9459E-07,  Iterations =    79
+End solving | Cost Time:    15.1 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.0/a-000400.nc                                                                                                                                                                                                
+--------------- FINISHED --------------
+2023-09-13 19:51:00

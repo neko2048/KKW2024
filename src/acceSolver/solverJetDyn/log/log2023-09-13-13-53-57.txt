@@ -1,0 +1,66 @@
+ Start Read fort.98
+ fort.98 Read Successfully
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/uniform-1/buoyancy-000120.nc                                                                                                                                                                                              
+ Start to solve
+Norm of error =  0.9423E-07,  Iterations =    40
+End solving | Cost Time:     8.2 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/uniform-1/a-000120.nc                                                                                                                                                                                                   
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-0.5/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.8659E-07,  Iterations =    24
+End solving | Cost Time:     5.0 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-0.5/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-1.0/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.8821E-07,  Iterations =    17
+End solving | Cost Time:     3.4 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-1.0/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-1.5/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.8868E-07,  Iterations =    19
+End solving | Cost Time:     3.8 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-1.5/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-2.0/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.9901E-07,  Iterations =    19
+End solving | Cost Time:     3.9 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-2.0/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-2.5/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.8528E-07,  Iterations =    20
+End solving | Cost Time:     4.1 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-2.5/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-3.0/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.9253E-07,  Iterations =    19
+End solving | Cost Time:     3.8 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.0/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-3.5/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.9665E-07,  Iterations =    18
+End solving | Cost Time:     3.9 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-3.5/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-4.0/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.8860E-07,  Iterations =    18
+End solving | Cost Time:     4.0 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-4.0/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-5.0/buoyancy-000120.nc                                                                                                                                                                                           
+ Start to solve
+Norm of error =  0.9454E-07,  Iterations =    20
+End solving | Cost Time:     4.2 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-5.0/a-000120.nc                                                                                                                                                                                                
+-------------------- 000120 --------------------
+INPUT: /data/atmenu10246/convBuoy/jetLplBuoy/gaussian-7.5/buoyancy-000120.nc                                                                                                                                                                                           
+--------------- FINISHED --------------
+2023-09-13 14:04:35

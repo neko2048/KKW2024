@@ -1,0 +1,12 @@
+ Start Read fort.98
+ fort.98 Read Successfully
+-------------------- 000200 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-1.0/buoyancy-000200.nc                                                                                                                                                                                
+ Start to solve
+Norm of error =  0.9839E-07,  Iterations =    52
+End solving | Cost Time:    10.2 sec
+OUTPUT: /data/atmenu10246/convBuoy/dat/vertAcce/gaussian-1.0/a-000200.nc                                                                                                                                                                                                
+-------------------- 000220 --------------------
+INPUT: /data/atmenu10246/convBuoy/dat/laplacianBuoyancy/gaussian-1.0/buoyancy-000220.nc                                                                                                                                                                                
+--------------- FINISHED --------------
+2023-09-13 17:03:55
